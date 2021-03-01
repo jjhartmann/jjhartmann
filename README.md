@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jjhartmann/jjhartmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jjhartmann&count_private=true&show_icons=true&show_icons=true&theme=radical)](https://www.jjhartmann.org)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhartmann&count_private=true&show_icons=true&theme=radical&layout=compact)](https://www.jjhartmann.org)
+
