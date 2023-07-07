@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 # 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=exii-uw&repo=GestureRecognizerUnity&theme=radical)](https://github.com/exii-uw/GestureRecognizerUnity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjhartmann&repo=Levenberg-Marquardt-Algorithm&theme=radical)](https://github.com/jjhartmann/Levenberg-Marquardt-Algorithm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjhartmann&repo=Fabric-Hyperledger-OCERT-Project&theme=radical)](https://github.com/jjhartmann/Fabric-Hyperledger-OCERT-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjhartmann&repo=Ipsum-Sola-X&theme=radical)](https://github.com/jjhartmann/Ipsum-Sola-X)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=exii-uw&repo=GestureRecognizerUnity&theme=transparent)](https://github.com/exii-uw/GestureRecognizerUnity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjhartmann&repo=Levenberg-Marquardt-Algorithm&theme=transparent)](https://github.com/jjhartmann/Levenberg-Marquardt-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjhartmann&repo=Fabric-Hyperledger-OCERT-Project&theme=transparent)](https://github.com/jjhartmann/Fabric-Hyperledger-OCERT-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjhartmann&repo=Ipsum-Sola-X&theme=transparent)](https://github.com/jjhartmann/Ipsum-Sola-X)
 
 
 # 📊 My Stats
@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 <tr>
 <td>
   
-[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jjhartmann&count_private=true&show_icons=true&show_icons=true&theme=radical)](https://www.jjhartmann.org)
+[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jjhartmann&count_private=true&show_icons=true&show_icons=true&theme=transparent)](https://www.jjhartmann.org)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjhartmann&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjhartmann&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   </td>
 <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhartmann&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://www.jjhartmann.org)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhartmann&count_private=true&show_icons=true&theme=transparent&langs_count=8)](https://www.jjhartmann.org)
   
 </td>
 </tr>
